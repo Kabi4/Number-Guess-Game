@@ -1,0 +1,12 @@
+html{
+	background:linear-gradient(180deg,skyblue,hotpink);
+}
+
+body{
+	margin:250px 200px;
+	padding-left:200px;
+	padding-right:200px;
+	text-align:center;
+	vertical-align: middle;
+	
+}
